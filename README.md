@@ -1,2 +1,2 @@
 # rols-pwbi
-Projetos relacionados a Análise de dados, dashboards com o PowerBI
+Projetos relacionados a Análise de dados, simulações e criação de dashboards utilizando o Microsoft PowerBI
